@@ -1,9 +1,9 @@
 
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import Services from './components/Services';
-import About from './components/About';
-import Contact from './components/Contact';
+import Navbar from './pages/Navbar';
+import Hero from './pages/Hero';
+import Services from './pages/Services';
+import About from './pages/About';
+import Contact from './pages/Contact';
 
 function App() {
   return (
